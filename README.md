@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adel Mohamed</h1>
-<h3 align="center">A passionate Senior Computer Engineering & Software systems Student At Ain Shams University, Data Science major.</h3>
+<h3 align="center">Computer Engineering & Software Systems Graduate from Ain Shams University (iCHEP) & University of East London, specializing in AI, Software Engineering, and Data Science.</h3>
 
 - 🌱 I’m currently learning **AI & Data Science**
 
